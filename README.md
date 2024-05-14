@@ -11,7 +11,7 @@ Este projeto foi desenvolvido em Java e faz uso da biblioteca Gson para manipula
 
 1.  Clone este repositório para o seu ambiente local:
 
-    código: `git clone https://github.com/LucasAmaral6/conversor-de-moeda.git` 
+    código: `git clone https://github.com/LucasAmaral6/conversorDeMoedas.git` 
 
 2.  Importe o projeto em sua IDE Java preferida.
     
