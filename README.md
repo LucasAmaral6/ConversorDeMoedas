@@ -1,7 +1,3 @@
-﻿# conversao.Conversor de Moeda em Tempo Real
-
-Este é um projeto de conversao.Conversor de Moeda em Java que utiliza uma API externa para obter taxas de câmbio em tempo real e converter valores entre diferentes moedas.
-
 ## Descrição
 
 Este projeto foi desenvolvido em Java e faz uso da biblioteca Gson para manipulação de JSON e da API externa do ExchangeRate-API para obter as taxas de câmbio mais recentes. Ele permite aos usuários converter valores de uma moeda para outra, utilizando as taxas de câmbio atualizadas.
